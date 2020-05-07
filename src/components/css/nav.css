@@ -1,0 +1,9 @@
+.main-nav {
+    display: flex;
+}
+
+.nav-item {
+    text-decoration: underline;
+    color: black;
+    font-size: 24px;
+}

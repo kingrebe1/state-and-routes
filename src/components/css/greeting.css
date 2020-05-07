@@ -1,0 +1,8 @@
+.greeting-container{
+    position: relative;
+}
+
+.greeting-text{
+ font-size: 21px;
+ font-weight: bold;
+}
