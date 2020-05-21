@@ -1,5 +1,6 @@
 .main-nav {
     display: flex;
+    justify-content: space-around;
 }
 
 .nav-item {
@@ -7,3 +8,4 @@
     color: black;
     font-size: 24px;
 }
+

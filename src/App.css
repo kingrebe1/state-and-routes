@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.dark-mode {
+  background-color: #242526;
+  color: white;
+}
+
+.normal-mode {
+  background-color: white;
+  color: black;
+}
